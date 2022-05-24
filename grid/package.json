@@ -1,0 +1,65 @@
+{
+  "_from": "react-native-super-grid",
+  "_id": "react-native-super-grid@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-g/THs6bSvNwWibUbZ4Q43pTuuiI=",
+  "_location": "/react-native-super-grid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-super-grid",
+    "name": "react-native-super-grid",
+    "escapedName": "react-native-super-grid",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-super-grid/-/react-native-super-grid-1.0.3.tgz",
+  "_shasum": "83f4c7b3a6d2bcdc1689b51b678438de94eeba22",
+  "_spec": "react-native-super-grid",
+  "_where": "/Users/pedro/Documents/PhotoAlbum",
+  "author": {
+    "name": "Saleel"
+  },
+  "bugs": {
+    "url": "https://github.com/saleel97/react-native-super-grid/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Responsive Grid View for React Native",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "homepage": "https://github.com/saleel97/react-native-super-grid",
+  "keywords": [
+    "react",
+    "native",
+    "responsive",
+    "super",
+    "grid",
+    "view"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-super-grid",
+  "peerDependencies": {
+    "react-native": ">=0.26.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleel97/react-native-super-grid.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}

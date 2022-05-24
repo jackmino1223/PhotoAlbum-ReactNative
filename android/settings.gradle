@@ -1,0 +1,3 @@
+rootProject.name = 'PhotoAlbum'
+
+include ':app'
